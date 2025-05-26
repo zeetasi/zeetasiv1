@@ -26,17 +26,17 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @owensdev1/baileys
+npm install @zeetasiv1/baileys
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @owensdev1/baileys@latest
+yarn add @zeetasiv1/baileys@latest
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@owensdev1/baileys")
+const { default: makeWASocket } = require("@zeetasiv1/baileys")
 ```
 
 # Index
